@@ -1,0 +1,14 @@
+{
+  "name": "natours-travel",
+  "version": "1.0.0",
+  "description": "Landing Page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Foyah Z. Freeman, Jr.",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
