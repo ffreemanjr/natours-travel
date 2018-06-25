@@ -24,7 +24,7 @@
   }
   &--white {
     background-color: $color-white;
-    columns: $color-grey-dark;
+    color: $color-grey-dark;
     &::after {
       background-color: $color-white;
     }
